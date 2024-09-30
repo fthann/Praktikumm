@@ -1,0 +1,15 @@
+C:\Users\Rado\Downloads\Praktikum\bin\Debug\net8.0\Praktikum.exe
+C:\Users\Rado\Downloads\Praktikum\bin\Debug\net8.0\Praktikum.deps.json
+C:\Users\Rado\Downloads\Praktikum\bin\Debug\net8.0\Praktikum.runtimeconfig.json
+C:\Users\Rado\Downloads\Praktikum\bin\Debug\net8.0\Praktikum.dll
+C:\Users\Rado\Downloads\Praktikum\bin\Debug\net8.0\Praktikum.pdb
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.AssemblyInfoInputs.cache
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.AssemblyInfo.cs
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.csproj.CoreCompileInputs.cache
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.sourcelink.json
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.dll
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\refint\Praktikum.dll
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.pdb
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\Praktikum.genruntimeconfig.cache
+C:\Users\Rado\Downloads\Praktikum\obj\Debug\net8.0\ref\Praktikum.dll
